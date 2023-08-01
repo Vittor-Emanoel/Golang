@@ -1,3 +1,3 @@
-module github.com/Vittor-Emanoel/Golang
+module modulo
 
 go 1.20
